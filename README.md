@@ -43,3 +43,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## POP3 Inbox Downloader Python
 
 [Script and instructions](pop3-inbox-downloader/README.md) to download POP3 email messages. Prompts for a password, uses SSL by default, and keeps server messages unless deletion is explicitly requested.
+
+## IMAP Downloader Python
+
+[Script and instructions](imap-downloader/README.md) to download messages from selected IMAP folders using SSL and read-only access. Prompts for your password and preserves message flags.
