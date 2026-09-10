@@ -63,3 +63,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## MD Converter Python
 
 [Script and instructions](md-converter/README.md) to convert browser bookmark HTML exports into Markdown tables, including nested folders.
+
+## Bouncing Matt Damon PowerShell
+
+[Script and instructions](bouncing-matt-damon/README.md) to bounce a local image around a Windows desktop overlay. Press Esc or double-click the image to close.
