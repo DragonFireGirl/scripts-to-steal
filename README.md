@@ -39,3 +39,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## L33t Wordlists Python
 
 [Script and instructions](l33t-wordlists/README.md) to convert text files to leetspeak using fixed character replacements. No extra packages required.
+
+## POP3 Inbox Downloader Python
+
+[Script and instructions](pop3-inbox-downloader/README.md) to download POP3 email messages. Prompts for a password, uses SSL by default, and keeps server messages unless deletion is explicitly requested.
