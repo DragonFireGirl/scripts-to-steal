@@ -91,3 +91,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## Elementor Pro Upload Checker
 
 [Script and instructions](elementor-upload-checker/README.md) for CVE-2026-32475 form discovery and optional marker upload tests, with strict origin checks and conservative result reporting.
+
+## Beacon Configuration Decryptor Python
+
+[Script and instructions](beacon-config-decryptor/README.md) to decrypt the documented seed/IV/length AES-CBC configuration format and display JSON, with strict length and padding validation.
