@@ -87,3 +87,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## SSH Command Wrapper Python
 
 [Script and instructions](ssh-command-wrapper/README.md) to run a remote command using OpenSSH key authentication and verified host keys. A command-line wrapper, not an MCP server.
+
+## Elementor Pro Upload Checker
+
+[Script and instructions](elementor-upload-checker/README.md) for CVE-2026-32475 form discovery and optional marker upload tests, with strict origin checks and conservative result reporting.
