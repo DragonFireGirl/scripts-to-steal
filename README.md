@@ -51,3 +51,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## Hex String Finder
 
 [Script and instructions](hex-string-finder/README.md) to find standalone 32-character hexadecimal strings in text files without modifying them. Includes sample input; matches are not necessarily password hashes.
+
+## Directory Lister PowerShell
+
+[Script and instructions](directory-lister/README.md) to list immediate subfolders and calculate their recursive file sizes without modifying files.
