@@ -47,3 +47,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## IMAP Downloader Python
 
 [Script and instructions](imap-downloader/README.md) to download messages from selected IMAP folders using SSL and read-only access. Prompts for your password and preserves message flags.
+
+## Hex String Finder
+
+[Script and instructions](hex-string-finder/README.md) to find standalone 32-character hexadecimal strings in text files without modifying them. Includes sample input; matches are not necessarily password hashes.
