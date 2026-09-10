@@ -55,3 +55,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## Directory Lister PowerShell
 
 [Script and instructions](directory-lister/README.md) to list immediate subfolders and calculate their recursive file sizes without modifying files.
+
+## Shodan Scanner Python
+
+[Script and instructions](shodan-scanner/README.md) for Shodan host lookups, database searches, and public IP lookup through an interactive menu.
