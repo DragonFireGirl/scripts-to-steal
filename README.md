@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="INSOMNIA — Scripts to Steal. Small tools. Late-night ideas." width="100%">
+  <img src="assets/banner.jpg" alt="INSOMNIA — Scripts to Steal. Small tools. Late-night ideas." width="100%">
 </p>
 
 <p align="center">
