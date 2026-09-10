@@ -31,3 +31,7 @@ The result is saved as `CanCopyHa.txt` by default.
 - Extracts embedded text only; scanned images need OCR first.
 - Joins words with spaces, so original formatting and line breaks are not preserved.
 - The extracted word order may differ from the visual reading order, especially in multi-column documents.
+
+## Excel worksheet protection remover
+
+[Script and instructions](excel-unprotect/README.md) to disable worksheet protection and unhide worksheets in an .xlsx copy. Does not remove passwords required to open encrypted files.
