@@ -71,3 +71,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## Keyboard Event Demo Python
 
 [Script and instructions](keyboard-event-demo/README.md) for a local practice field displaying keyboard events without sending or storing them.
+
+## Proxy Connection Checker Python
+
+[Script and instructions](proxy-connection-checker/README.md) to check HTTP/HTTPS proxies against a test URL and report status and response time, without login attempts.
