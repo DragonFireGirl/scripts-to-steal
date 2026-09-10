@@ -35,3 +35,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## Excel worksheet protection remover
 
 [Script and instructions](excel-unprotect/README.md) to disable worksheet protection and unhide worksheets in an .xlsx copy. Does not remove passwords required to open encrypted files.
+
+## L33t Wordlists Python
+
+[Script and instructions](l33t-wordlists/README.md) to convert text files to leetspeak using fixed character replacements. No extra packages required.
