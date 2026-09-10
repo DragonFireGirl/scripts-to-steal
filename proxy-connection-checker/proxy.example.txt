@@ -1,0 +1,2 @@
+# Replace this documentation-only address with your own proxy.
+http://192.0.2.10:8080
