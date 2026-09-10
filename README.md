@@ -83,3 +83,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## YouTube MP3 Downloader Python
 
 [Script and instructions](youtube-mp3-downloader/README.md) to download video audio as MP3 with yt-dlp and FFmpeg, with configurable output folder and bitrate.
+
+## SSH Command Wrapper Python
+
+[Script and instructions](ssh-command-wrapper/README.md) to run a remote command using OpenSSH key authentication and verified host keys. A command-line wrapper, not an MCP server.
