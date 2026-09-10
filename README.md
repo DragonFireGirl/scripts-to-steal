@@ -59,3 +59,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## Shodan Scanner Python
 
 [Script and instructions](shodan-scanner/README.md) for Shodan host lookups, database searches, and public IP lookup through an interactive menu.
+
+## MD Converter Python
+
+[Script and instructions](md-converter/README.md) to convert browser bookmark HTML exports into Markdown tables, including nested folders.
