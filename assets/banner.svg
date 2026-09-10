@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">INSOMNIA — Scripts to Steal</title><desc id="desc">Purple and cyan curved trails on a midnight background. Small tools. Late-night ideas.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090719"/><stop offset="1" stop-color="#1e123b"/></linearGradient><linearGradient id="trail"><stop stop-color="#a78bfa"/><stop offset=".55" stop-color="#e879f9"/><stop offset="1" stop-color="#67e8f9"/></linearGradient></defs>
+<rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+<g fill="none" stroke="url(#trail)">
+<path d="M720 340C630 180 1050 320 1130 90S920 -70 880 50" opacity=".15" stroke-width="30"/>
+<path d="M740 360C620 160 1090 320 1150 90S940 -70 900 50" opacity=".9" stroke-width="2"/>
+<path d="M760 360C640 145 1100 290 1170 80S960 -60 920 60" opacity=".65" stroke-width="2"/>
+<path d="M780 360C650 125 1120 260 1190 70S980 -50 940 70" opacity=".4" stroke-width="2"/>
+</g>
+<text x="66" y="72" fill="#c4b5fd" font-family="Arial, sans-serif" font-size="13" letter-spacing="5">THE SCRIPT COLLECTION</text>
+<text x="62" y="165" fill="#f5f3ff" font-family="Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="10">INSOMNIA</text>
+<text x="66" y="219" fill="#e9d5ff" font-family="Arial, sans-serif" font-size="26">Scripts to Steal</text>
+<text x="66" y="281" fill="#a9a3c2" font-family="Arial, sans-serif" font-size="17">Small tools. Late-night ideas.</text>
+</svg>
