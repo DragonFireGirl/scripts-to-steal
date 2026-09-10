@@ -75,3 +75,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## Proxy Connection Checker Python
 
 [Script and instructions](proxy-connection-checker/README.md) to check HTTP/HTTPS proxies against a test URL and report status and response time, without login attempts.
+
+## HTTPS Link Extractor Python
+
+[Script and instructions](https-link-extractor/README.md) to extract explicit HTTPS links from one webpage into a text file.
