@@ -67,3 +67,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## Bouncing Matt Damon PowerShell
 
 [Script and instructions](bouncing-matt-damon/README.md) to bounce a local image around a Windows desktop overlay. Press Esc or double-click the image to close.
+
+## Keyboard Event Demo Python
+
+[Script and instructions](keyboard-event-demo/README.md) for a local practice field displaying keyboard events without sending or storing them.
