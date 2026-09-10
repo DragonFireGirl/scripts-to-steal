@@ -79,3 +79,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## HTTPS Link Extractor Python
 
 [Script and instructions](https-link-extractor/README.md) to extract explicit HTTPS links from one webpage into a text file.
+
+## YouTube MP3 Downloader Python
+
+[Script and instructions](youtube-mp3-downloader/README.md) to download video audio as MP3 with yt-dlp and FFmpeg, with configurable output folder and bitrate.
