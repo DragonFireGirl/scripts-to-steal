@@ -59,3 +59,7 @@ The result is saved as `CanCopyHa.txt` by default.
 ## Shodan Scanner Python
 
 [Script and instructions](shodan-scanner/README.md) for Shodan host lookups, database searches, and public IP lookup through an interactive menu.
+
+## Multi-Tool Pentesting Bash
+
+[Script and instructions](multi-tool-pentesting/README.md) for an interactive menu of network testing tools and local text decoders. Requires Linux/Bash and the tools for your selected actions.
